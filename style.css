@@ -109,6 +109,14 @@ p {
     text-decoration: none;
 }
 
+.logo-tagline {
+    font-size: 0.9rem;      /* Smaller font size */
+    font-weight: 400;     /* Normal font weight (not bold) */
+    color: #666;           /* A slightly lighter grey for subtlety */
+    vertical-align: middle; /* Helps align it nicely with the main text */
+    margin-left: 5px;       /* Adds a little space */
+}
+
 /* --- Hero Section --- */
 .hero {
     padding: 100px 0;
